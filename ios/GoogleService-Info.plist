@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>871606023918-30ion99l5c2scp2bp4l9lf79mou65q77.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.871606023918-30ion99l5c2scp2bp4l9lf79mou65q77</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>871606023918-803dndqkacs9cmf90vqkuub9qvso7nhb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDC1hGDDSvhccgV0Zyw5j7KQqLQnJeSym8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>871606023918</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.melone.melone</string>
+	<key>PROJECT_ID</key>
+	<string>melone-cc638</string>
+	<key>STORAGE_BUCKET</key>
+	<string>melone-cc638.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:871606023918:ios:37b078c9a057bb0ff925ff</string>
+	<key>DATABASE_URL</key>
+	<string>https://melone-cc638.firebaseio.com</string>
+</dict>
+</plist>

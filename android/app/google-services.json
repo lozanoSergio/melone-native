@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "871606023918",
+    "firebase_url": "https://melone-cc638.firebaseio.com",
+    "project_id": "melone-cc638",
+    "storage_bucket": "melone-cc638.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871606023918:android:7c1bd91f60c86181f925ff",
+        "android_client_info": {
+          "package_name": "com.melone.melone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871606023918-803dndqkacs9cmf90vqkuub9qvso7nhb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.melone.melone",
+            "certificate_hash": "1d85933c5d1ead2f0bad3d63aa76b0488e5270b3"
+          }
+        },
+        {
+          "client_id": "871606023918-4hj9tji039ivnftf0acll1ggf7hb0dv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.melone.melone",
+            "certificate_hash": "e8eeb4b055751916b3ccb53b70c7d18cd8ab1acf"
+          }
+        },
+        {
+          "client_id": "871606023918-q95gnkkmmj102e3ki64lk0jrcd1unlo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBArMLIufFESLNTp146jHpXT-Tt-pbPO_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871606023918-q95gnkkmmj102e3ki64lk0jrcd1unlo0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "871606023918-30ion99l5c2scp2bp4l9lf79mou65q77.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.melone.melone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  melone
+
+  Created by Sergio on 26/11/2019.
+  Copyright © 2019 Facebook. All rights reserved.
+*/
+NSPhotoLibraryUsageDescription = "Melone needs your permission to access the gallery.";
+NSAppleMusicUsageDescription = "Melone needs your permission to access your favorite music.";
+NSMicrophoneUsageDescription = "Melone needs to use your camera including microphone in order to scan a product.";
+NSCameraUsageDescription = "Melone needs to use your camera in order to scan a product.";
+NSLocationWhenInUseUsageDescription = "Melone needs to use your location to show better information about the products you scan.";
